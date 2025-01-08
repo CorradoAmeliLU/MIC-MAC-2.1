@@ -6,6 +6,8 @@ Immunofluorescence staining protocol and large‐scale analysis to quantify micr
 The files for the tutorial are available at: https://owncloud.lcsb.uni.lu/s/qoXE9SmgIZ34xvX/authenticate
 The password is: micmac
 
+Requires Matlab version 2023b or above.
+
 Extract the Library.tar file before using the Matlab scripts.
 
 The file tutorial_raw.ims is the raw acquisition. Open this file in Imaris and perform the segmentation as described. For this image we chose a threshold for the background subtraction of 0.8, and a filtering between 18.000 voxels and 200.000 voxels.
